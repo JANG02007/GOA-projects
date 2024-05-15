@@ -1,0 +1,1 @@
+print("goashi shemosvlis shemdeg gavicani chemi razmis lideri nika shavadze")
